@@ -2,6 +2,4 @@ theme: jekyll-theme-minimal
 title: Track List 
 description: Track一覧
 logo: ./assets/images/lgo-ntt.png
-
-
-
+google_analytics: UA-50413464-5
